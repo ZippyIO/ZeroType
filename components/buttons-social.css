@@ -1,0 +1,1492 @@
+/*** COMPONENT: SOCIAL-BUTTONS  ***/
+
+/* ANDROID */
+
+.social-button-android {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #a3d262;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #91b958;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+.social-button-android:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content: "\f17b";
+   font-family: fontAwesome;
+   background: #9bc95c;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-android {
+   text-decoration: none;
+}
+
+/* Deviantart */
+
+.social-button-deviantart {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #7f9f8a;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #5f7368;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-deviantart:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content: "\f1bd";
+   font-family: fontAwesome;
+   background: #708d79;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-deviantart {
+   text-decoration: none;
+}
+
+/* Behance */
+
+.social-button-behance {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #389eff;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #3884cf;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-behance:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content: "\f1b4";
+   font-family: fontAwesome;
+   background: #308feb;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-behance {
+   text-decoration: none;
+}
+
+/* Codepen */
+
+.social-button-codepen {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #36353a;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #161618;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-codepen:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content: "\f1cb";
+   font-family: fontAwesome;
+   background: #2d2d2f;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-codepen {
+   text-decoration: none;
+}
+
+/* Dribbble */
+
+.social-button-dribbble {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #f571a3;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #bb5d81;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-dribbble:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content: "\f17d";
+   font-family: fontAwesome;
+   background: #da5f8e;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-dribbble {
+   text-decoration: none;
+}
+
+/* Dropbox */
+
+.social-button-dropbox {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #0b78cb;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #1e5b8a;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-dropbox:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content: "\f16b";
+   font-family: fontAwesome;
+   background: #0c68ab;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-dropbox {
+   text-decoration: none;
+}
+
+/* Durpal */
+
+.social-button-drupal {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #4cace6;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #468fba;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-drupal:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content:  "\f1a9";
+   font-family: fontAwesome;
+   background: #3d9ad3;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-drupal {
+   text-decoration: none;
+}
+
+/* GitHub */
+
+.social-button-github {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #febc42;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #c1913d;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-github:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content:  "\f113";
+   font-family: fontAwesome;
+   background: #e3a536;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-github {
+   text-decoration: none;
+}
+
+/* Facebook */
+
+.social-button-facebook {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #6784be;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #445f8e;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-facebook:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content:  "\f09a";
+   font-family: fontAwesome;
+   background: #5e78b1;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-facebook {
+   text-decoration: none;
+}
+
+/* Yahoo */
+
+.social-button-yahoo {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #cf5eea;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #9f4cb6;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-yahoo:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content:  "\f19e";
+   font-family: fontAwesome;
+   background: #c256dd;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-yahoo {
+   text-decoration: none;
+}
+
+/* YouTube */
+
+.social-button-youtube {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #de474c;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #9f3a40;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-youtube:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content:  "\f16a";
+   font-family: fontAwesome;
+   background: #c73c41;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-youtube {
+   text-decoration: none;
+}
+
+/* Twitter */
+
+.social-button-twitter {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #72c2ff;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #5ca3d1;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-twitter:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content:  "\f099";
+   font-family: fontAwesome;
+   background: #67b0e7;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-twitter {
+   text-decoration: none;
+}
+
+/* Vimeo */
+
+.social-button-vimeo {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #72c2ff;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #61a1cf;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-vimeo:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content:  "\f194";
+   font-family: fontAwesome;
+   background: #66afe6;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-vimeo {
+   text-decoration: none;
+}
+
+/* Linkedin */
+
+.social-button-linkedin {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #3488c8;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #3070a0;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-linkedin:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content:  "\f0e1";
+   font-family: fontAwesome;
+   background: #2975b1;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-linkedin {
+   text-decoration: none;
+}
+
+/* Pinterest */
+
+.social-button-pinterest {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #c01b22;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #8c2226;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-pinterest:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content:  "\f0d2";
+   font-family: fontAwesome;
+   background: #a41819;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-pinterest {
+   text-decoration: none;
+}
+
+/* Vine */
+
+.social-button-vine {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   position: relative;
+   padding: 0 20px 0 73px;
+   border: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 400;
+   text-transform: capitalize;
+   -o-text-overflow: clip;
+   text-overflow: clip;
+   background: #13d7a7;
+   color: #fffffb;
+   text-align: center;
+   line-height: 50px;
+   width: 100px;
+   height: 50px;
+   min-width: 100px;
+   box-shadow: 0px 2px 0px #20ad8a;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+
+.social-button-vine:before {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+   width: 60px;
+   height: 100%;
+   line-height: 50px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   content:  "\f1ca";
+   font-family: fontAwesome;
+   background: #14bd94;
+   color: #fffffb;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+a.social-button-vine {
+   text-decoration: none;
+}
+
+/*** COMPONENT: SOCIAL-BUTTONS: ICONS  ***/
+
+/* Android */
+
+.socialbt-icon-android {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #a3d363;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #91b958;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Deviantart */
+
+.socialbt-icon-deviantart {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #7f9f8a;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #5a7765;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Behance */
+
+.socialbt-icon-behance {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #389eff;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #1e80e1;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Codepen */
+
+.socialbt-icon-codepen {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #36353a;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #060608;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Dribbble */
+
+.socialbt-icon-dribbble {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #f571a3;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #d04d7f;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Dropbox */
+
+.socialbt-icon-dropbox {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #0b78cb;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #005497;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Drupal */
+
+.socialbt-icon-drupal {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #4cace6;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #318fc5;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* GitHub */
+
+.socialbt-icon-github {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #febc42;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #d99726;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Facebook */
+
+.socialbt-icon-facebook {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #6784be;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #3e5b93;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Yahoo */
+
+.socialbt-icon-yahoo {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #d05feb;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #a93fc7;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* YouTube */
+
+.socialbt-icon-youtube {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #de474c;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #b0272f;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Twitter */
+
+.socialbt-icon-twitter {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #72c2ff;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #52a6e2;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Vimeo */
+
+.socialbt-icon-vimeo {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #72c2ff;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #54a6e2;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Linkedin */
+
+.socialbt-icon-linkedin {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #3088c8;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #196aab;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Pinterest */
+
+.socialbt-icon-pinterest {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #c01b21;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #98020e;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Vine */
+
+.socialbt-icon-vine {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #13d7a9;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #01b88a;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Wordpress */
+
+.socialbt-icon-wordpress {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #4796bf;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #277a9a;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Stumbleupon */
+
+.socialbt-icon-stumbleupon {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #e65826;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #c63c0b;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Google */
+
+.socialbt-icon-google {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #242424;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #0c0c0c;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* Skype */
+
+.socialbt-icon-skype {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #25adff;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #0393e9;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* RSS */
+
+.socialbt-icon-rss {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #ef9638;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #db8023;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* HTML5 */
+
+.socialbt-icon-html5 {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #f16528;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #de4f15;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+
+/* CSS3 */
+
+.socialbt-icon-css3 {
+   display: inline-block;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   width: 50px;
+   height: 50px;
+   min-width: 50px;
+   min-height: 50px;
+   max-height: 50px;
+   max-width: 50px;
+   line-height: 50px;
+   background: #65d3e4;
+   color: #fffffb;
+   box-shadow: 0px 2px 0px #48bfd5;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   text-align: center;
+   vertical-align: middle;
+}

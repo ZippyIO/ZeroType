@@ -1,0 +1,60 @@
+/*** NAVBARS ***/
+
+
+
+.navbar-transparent {
+   float: right;
+   margin-right: 50px;
+}
+
+.navbar-transparent ul {
+   list-style: none;
+
+}
+
+.navbar-transparent li {
+   display: inline-block;
+   text-decoration: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 300;
+}
+
+.navbar-transparent a {
+   display: inline-block;
+   text-decoration: none;
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 300;
+}
+
+header {
+   margin-left: 50px;
+}
+
+nav h1 {
+   font-family: 'Ubuntu', sans-serif;
+   font-weight: 300;
+   float: left;
+   margin: 0 0 0 0;
+   padding: 5px 0 0 0;
+}
+
+
+
+/* NAVBAR: COLORS */
+
+.navbar-transparent a {
+   color: #000;
+}
+
+.active a {
+   color: #5ab8d1;
+}
+
+hr {
+   display: block;
+   height: 1px;
+   border: 0;
+   border-top: 1px solid #ccc;
+   margin: 1px 0;
+   padding: 0;
+}

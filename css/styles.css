@@ -13,3 +13,31 @@ h2 {
 .text-align-center {
    text-align: center;
 }
+
+.flexcontainer {
+   display: -webkit-flex;
+   display: flex;
+   -webkit-flex-direction: row;
+   flex-direction: row;
+   -webkit-align-items: flex-start;
+   align-items: flex-start;
+
+}
+
+.flex-container ul li {
+   display: inline;
+   list-style-type: none;
+}
+
+.wrap {
+   flex-wrap: wrap;
+}
+
+.social-button {
+   display:flex;
+}
+
+.social-button-joined {
+   display: inline-block;
+   text-align: center;
+}

@@ -4,6 +4,8 @@
 
 ZeroType is a framework currently in development, the plan is to have a user friendly feature & component rich framework. Currently ZeroType is in early beta stages. Nothing is final and some components and files are place-holders. 
 
+Please note all components will be compacted into one file once they are done. Although you may still use each component separately.
+
 ## Planed Features & Components
 
 - Buttons - Done

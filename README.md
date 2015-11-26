@@ -25,7 +25,7 @@ More features are to come, if you have any ideas please let us know. If you find
 
 ## Documentation & Support
 
-Documentation and support is provided at [zerotype.zippybling.me](http://zerotype.zippybling.me/). Although currently that website is not active, if you need any support please submit an issue on our GitHub Repoistory.
+Documentation and support is provided at [zippyio.github.io/ZeroType/](http://zippyio.github.io/ZeroType/. Although currently that website is not active, if you need any support please submit an issue on our GitHub Repoistory.
 
 
 
